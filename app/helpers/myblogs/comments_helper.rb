@@ -1,0 +1,2 @@
+module Myblogs::CommentsHelper
+end
